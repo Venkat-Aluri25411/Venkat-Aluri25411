@@ -30,46 +30,8 @@ B.Tech Computer Science Student
 * GitHub
 * VS Code
 * MySQL
-
 ---
 
-## Technologies
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## GitHub Stats
-
-![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkat-Aluri25411\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
----
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat-Aluri25411\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Venkat-Aluri25411\&theme=tokyonight\&hide_border=true)
-
----
-
-## Areas of Interest
-
-* Backend Development
-* Data Structures & Algorithms
-* Database Management Systems
-* Operating Systems
-* Computer Networks
-* System Design Fundamentals
-* Machine Learning
 
 ---
 
