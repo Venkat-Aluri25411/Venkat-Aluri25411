@@ -92,7 +92,3 @@ Currently working on machine learning models to understand data preprocessing, f
 * Continuously learn and improve
 
 ---
-
-## Profile Views
-
-![](https://komarev.com/ghpvc/?username=Venkat-Aluri25411\&label=Profile%20Views\&color=blue\&style=flat)
