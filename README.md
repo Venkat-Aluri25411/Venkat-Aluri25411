@@ -4,10 +4,6 @@
 
 B.Tech Computer Science Student
 
-Passionate about Backend Development, Data Structures & Algorithms
-
-Currently learning Spring Boot, System Design, and Machine Learning
-
 ---
 
 ## Tech Stack
